@@ -1,0 +1,12 @@
+body{
+    background-color: #ededed;
+}
+
+header{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 600;
+}
