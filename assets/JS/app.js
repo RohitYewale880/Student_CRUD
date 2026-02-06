@@ -31,7 +31,7 @@ const stdArr = [
   {
     fname: "Shivraj",
     lname: "Pathade",
-    email: "snehal.patil@gmail.com",
+    email: "sivraj.pathade@gmail.com",
     contact: "9123456780",
     stdid: "b2c3d4e5-2b3c-4d6e-8f11-212223242526"
   },
